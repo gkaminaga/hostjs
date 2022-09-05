@@ -4,5 +4,5 @@ function discar(){
 }
 function salvar(){
     var salvar = document.getElementById("check");
-	salvar.value = "1";
+	salvar.value = "0";
 }
