@@ -1,8 +1,7 @@
 function discar(){
-    var discar = document.getElementById("check");
-	discar.value = "1";
+	document.getElementById('check').value = '1';
+    
 }
 function salvar(){
-    var salvar = document.getElementById("check");
-	salvar.value = "0";
+	document.getElementById('check').value = '0';
 }
